@@ -1,0 +1,6 @@
+Today, Big data and AI are used in almost every field, and the technology is growing rapidly. 
+For Big data and AI, the data to be learned is very important. 
+When using existing data as the data to be learned, the vast amount of data and the actual information are utilized, so we can generally produce accurate results. 
+However, in certain areas, the vicious cycle can be repeated as a result because sex discrimination and racial discrimination from existing data are learned together. 
+As AI and big data developed, these problems became important issues.
+ I think it is more efficient to use existing data for several reasons on these issues.
